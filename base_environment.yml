@@ -2,7 +2,7 @@ name: srbench
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.9
   - scikit-learn 
   - pandas 
   - numpy
